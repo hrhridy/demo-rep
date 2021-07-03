@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+}
+
+
+
+/* ----------------------------- Banner css ----------------------- */
+
+#banner{
+    background: linear-gradient(to right, #2de269b0, #4b00e077), url(../Images/3.jpg) no-repeat center/cover;
+}
+
+
+
+/* ----------------------------- Project css ----------------------- */
+
+
+
+#project .project-col{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 0;
+}
+
+
+
+/* ----------------------------- Team css ----------------------- */
+#team .team-item{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
